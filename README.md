@@ -15,6 +15,7 @@ Olá pessoal! 👋 Sou uma entusiasta do mundo eletrônico e do desenvolvimento 
 ## Project Ziøn
 - Meu projeto de vida, começamos como pequenas narrações de roleplay em plataformas de comunicação (Discord, Amino, Whatsapp, etc) e expandiremos cada vez mais com projetos de divulgação e marketing (Streamings, vídeos e redes sociais próprias) para, por fim, elevar o nível e transformar em um **MMORPG para computadores e dispositivos mobile!**
 
+![Project Zion](https://github.com/LizZion/lizzion/blob/main/projectzion.png)
 
 Se quiser saber mais sobre mim ou colaborar em algum projeto, fique à vontade para entrar em contato! 📬
 lizzbentle@gmail.com
