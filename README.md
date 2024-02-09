@@ -1,3 +1,5 @@
+![LizZion](https://github.com/LizZion/lizzion/blob/main/LIZZION.png)
+
 # LizZion: Desenvolvedora e Apaixonada por Tecnologia 👩‍💻
 
 Olá pessoal! 👋 Sou uma entusiasta do mundo eletrônico e do desenvolvimento de software. Desde muito jovem, meu interesse por esse universo cresceu e me levou a buscar cursos online para aprimorar minhas habilidades, além de estudar inglês profissionalmente.
