@@ -3,7 +3,7 @@
 Olá pessoal! 👋 Sou uma entusiasta do mundo eletrônico e do desenvolvimento de software. Desde muito jovem, meu interesse por esse universo cresceu e me levou a buscar cursos online para aprimorar minhas habilidades, além de estudar inglês profissionalmente.
 
 ## Formação e Destaque
-- Ingressei no **SENAI Almirante Tamandaré**, uma renomada instituição de ensino, para extrair o máximo de conhecimento na área de desenvolvimento de sistemas. Durante o curso.
+- Ingressei no **SENAI Almirante Tamandaré**, uma renomada instituição de ensino, para extrair o máximo de conhecimento na área de desenvolvimento de sistemas.
 - Atualmente, atuo como **desenvolvedora de softwares freelance**, criando soluções para diversos projetos.
 - Sou **CEO de uma pequena loja pessoal de máquinas virtuais**, onde aplico meus conhecimentos em tecnologia para oferecer produtos de qualidade aos clientes.
 - **Fundadora da Project Ziøn** uma organização online que reúne diversos escritores, roteiristas e mundos RPG, com o intuito de criar refúgios virtuais para aqueles que amam viajar entre mundos de fantasia!
