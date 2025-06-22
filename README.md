@@ -6,7 +6,7 @@ Olá pessoal! 👋 Sou uma entusiasta do mundo eletrônico e do desenvolvimento 
 
 ## Formação e Destaque
 - Ingressei no **SENAI Almirante Tamandaré**, uma renomada instituição de ensino, para extrair o máximo de conhecimento na área de desenvolvimento de sistemas.
-- Atualmente sou **desenvolvedora de softwares freelance**, criando soluções para diversos projetos e ideias que precisam de vida.
+- Atualmente sou **desenvolvedora de softwares freelancer**, criando soluções para diversos projetos e ideias que precisam de vida.
 - **Fundadora da Project Ziøn**, uma organização online que reúne diversos escritores, roteiristas e mundos RPG com o intuito de criar refúgios virtuais para aqueles que amam viajar por mundos de fantasia!
 
 ## Interesses e Experiência
