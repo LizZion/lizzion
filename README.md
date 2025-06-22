@@ -1,4 +1,4 @@
-![LizZion](https://github.com/LizZion/lizzion/blob/main/LIZZION.png)
+![LizZion](https://github.com/LizZion/lizzion/blob/main/LIZZIONbanner.png)
 
 # LizZion: Desenvolvedora e Apaixonada por Tecnologia 👩‍💻
 
